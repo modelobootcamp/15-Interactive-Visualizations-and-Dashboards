@@ -1,5 +1,5 @@
 # [12: Plotly Homework](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards)
-# [12: index.html](https://modelobootcamp.github.io/modelobootcamp/Plotly-html/index.html)
+# [12: index.html](https://modelobootcamp.github.io/Plotly-html/)
 # [12: index.html-2](https://modelobootcamp.github.io/JavaScript-Homework/)
 # [12: index.html](https://github.com/modelobootcamp/Plotly-html)
 # [12: index.html](https://github.com/modelobootcamp/Plotly-html)
