@@ -1,4 +1,4 @@
-# [12: Plotly Homework](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/templates/index.html)
+# [12: Plotly Homework](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards)
 
 # Belly Button Biodiversity
 
