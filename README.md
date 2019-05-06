@@ -10,7 +10,7 @@
 
 ![1](images/bacteria_by_filterforgedotcom.jpg)
 
-![2](bacteria_by_filterforgedotcom.jpg)
+![2](images/2019-05-05%20(9).png)
 
 ![3](images/2019-05-05%20(8).png)
 
@@ -19,6 +19,12 @@
 ![5](images/2019-05-05%20(6).png)
 
 ![6](images/2019-05-05%20(5).png)
+
+![6](images/2019-05-05%20(4).png)
+
+![6](images/2019-05-05%20(3).png)
+
+![6](images/2019-05-05%20(2).png)
 
 
 
