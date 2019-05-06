@@ -1,6 +1,6 @@
 ### [Plotly Homework](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards)
 ### [index](https://modelobootcamp.github.io/Plotly-html/)
-### [Last Homewoork](https://modelobootcamp.github.io/JavaScript-Homework/)
+### [Home page](https://modelobootcamp.github.io/15-Interactive-Visualizations-and-Dashboards/)
 ###  [db](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/tree/master/db)
 ### [Images](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/tree/master/images)
 ### [js](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/tree/master/static/js)
