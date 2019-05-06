@@ -8,17 +8,17 @@
 
 # Belly Button Biodiversity
 
-![Bacteria by filterforge.com](images/bacteria_by_filterforgedotcom.jpg)
+![1](images/bacteria_by_filterforgedotcom.jpg)
 
-![Bacteria by filterforge.com](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(9).png)
+![2](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(9).png)
 
-![Bacteria by filterforge.com](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(8).png)
+![3](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(8).png)
 
-![Bacteria by filterforge.com](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(7).png)
+![4](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(7).png)
 
-![Bacteria by filterforge.com](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(6).png)
+![5](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(6).png)
 
-![Bacteria by filterforge.com](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(5).png)
+![6](https://github.com/modelobootcamp/15-Interactive-Visualizations-and-Dashboards/blob/master/images/2019-05-05%20(5).png)
 
 
 
